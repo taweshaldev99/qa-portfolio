@@ -1,0 +1,2 @@
+Upload the cloudflare-upload folder to Cloudflare Pages. Full editable Next.js project is in source. Read source/DEPLOYMENT.md. Review email and degree status in source/README.md before publishing.
+Production build and TypeScript validation passed. All exported local asset links and section anchors resolve. QA CV matches the original repository file byte-for-byte. Browser interaction and visual QA were not run because a supported browser-control tool was unavailable. Test-case filtering, menu and clipboard behavior still need a browser smoke check after deployment.
